@@ -287,12 +287,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T134500
 DTEND;TZID=UTC:20211123T143000
 DTSTAMP;TZID=UTC:20211123T134500
-UID:TBA
+UID:Towards-control-structures-in-Vélus
 LOCATION:La Rochette
-SEQUENCE:7
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:Towards control structures in Vélus
+URL:http://synchron2021.inria.fr/abstracts.html#Towards-control-structur
+ es-in-Vélus
 DESCRIPTION:Basile Pesin (Inria/ENS)
 TRANSP:OPAQUE
 END:VEVENT
