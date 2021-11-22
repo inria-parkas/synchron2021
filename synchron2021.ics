@@ -82,12 +82,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211122T103000
 DTEND;TZID=UTC:20211122T111500
 DTSTAMP;TZID=UTC:20211122T103000
-UID:TBA
+UID:Zélus-to-DynIbex-:-compilation-toward-an-interval-CSP-framework-for-contracts-verification
 LOCATION:La Rochette
-SEQUENCE:2
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:Zélus to DynIbex : compilation toward an interval CSP framework
+  for contracts verification
+URL:http://synchron2021.inria.fr/abstracts.html#Zélus-to-DynIbex-:-comp
+ ilation-toward-an-interval-CSP-framework-for-contracts-verification
 DESCRIPTION:François Pessaux (ENSTA)
 TRANSP:OPAQUE
 END:VEVENT
