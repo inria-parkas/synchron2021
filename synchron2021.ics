@@ -290,12 +290,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T134500
 DTEND;TZID=UTC:20211123T143000
 DTSTAMP;TZID=UTC:20211123T134500
-UID:TBA
+UID:Polymorphic-Types-for-Inferring-and-Verifying-Array-Sizes
 LOCATION:La Rochette
-SEQUENCE:10
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:Polymorphic Types for Inferring and Verifying Array Sizes
+URL:http://synchron2021.inria.fr/abstracts.html#Polymorphic-Types-for-In
+ ferring-and-Verifying-Array-Sizes
 DESCRIPTION:Baptiste Pauget (ANSYS/Inria/ENS)
 TRANSP:OPAQUE
 END:VEVENT
