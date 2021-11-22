@@ -191,30 +191,27 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T080000
 DTEND;TZID=UTC:20211123T084500
 DTSTAMP;TZID=UTC:20211123T080000
-UID:From-Playing-with-Constraints-to-Thinking-in-Terms-of-Limits-—-Towards-New-Research-Directions-in-CS
+UID:Exploring-Worst-Case-Scenarios-of-Self-Stabilizing-Algorithms
 LOCATION:La Rochette
-SEQUENCE:1
+SEQUENCE:2
 STATUS:CONFIRMED
-SUMMARY:From Playing with Constraints to Thinking in Terms of Limits —
-  Towards New Research Directions in CS
-URL:http://synchron2021.inria.fr/abstracts.html#From-Playing-with-Constr
- aints-to-Thinking-in-Terms-of-Limits-—-Towards-New-Research-Directions
- -in-CS
-DESCRIPTION:Florence Maraninchi (VERIMAG)
+SUMMARY:Exploring Worst-Case Scenarios of Self-Stabilizing Algorithms
+URL:http://synchron2021.inria.fr/abstracts.html#Exploring-Worst-Case-Sce
+ narios-of-Self-Stabilizing-Algorithms
+DESCRIPTION:Erwan Jahier (Verimag/CNRS)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T084500
 DTEND;TZID=UTC:20211123T093000
 DTSTAMP;TZID=UTC:20211123T084500
-UID:Exploring-Worst-Case-Scenarios-of-Self-Stabilizing-Algorithms
+UID:TBA
 LOCATION:La Rochette
-SEQUENCE:1
+SEQUENCE:9
 STATUS:CONFIRMED
-SUMMARY:Exploring Worst-Case Scenarios of Self-Stabilizing Algorithms
-URL:http://synchron2021.inria.fr/abstracts.html#Exploring-Worst-Case-Sce
- narios-of-Self-Stabilizing-Algorithms
-DESCRIPTION:Erwan Jahier (Verimag/CNRS)
+SUMMARY:TBA
+URL:http://synchron2021.inria.fr/abstracts.html#TBA
+DESCRIPTION:Baptiste Pauget (ANSYS/Inria/ENS)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -234,27 +231,28 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T100000
 DTEND;TZID=UTC:20211123T104500
 DTSTAMP;TZID=UTC:20211123T100000
-UID:TBA
+UID:Synchronous-semantics-of-multi-mode-multi-periodic-systems
 LOCATION:La Rochette
-SEQUENCE:8
+SEQUENCE:3
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
-DESCRIPTION:Baptiste Pauget (ANSYS/Inria/ENS)
+SUMMARY:Synchronous semantics of multi-mode multi-periodic systems
+URL:http://synchron2021.inria.fr/abstracts.html#Synchronous-semantics-of
+ -multi-mode-multi-periodic-systems
+DESCRIPTION:Frédéric Fort (Université de Lille)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T104500
 DTEND;TZID=UTC:20211123T113000
 DTSTAMP;TZID=UTC:20211123T104500
-UID:Synchronous-semantics-of-multi-mode-multi-periodic-systems
+UID:Towards-control-structures-in-Vélus
 LOCATION:La Rochette
-SEQUENCE:2
+SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:Synchronous semantics of multi-mode multi-periodic systems
-URL:http://synchron2021.inria.fr/abstracts.html#Synchronous-semantics-of
- -multi-mode-multi-periodic-systems
-DESCRIPTION:Frédéric Fort (Université de Lille)
+SUMMARY:Towards control structures in Vélus
+URL:http://synchron2021.inria.fr/abstracts.html#Towards-control-structur
+ es-in-Vélus
+DESCRIPTION:Basile Pesin (Inria/ENS)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -274,27 +272,31 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T130000
 DTEND;TZID=UTC:20211123T134500
 DTSTAMP;TZID=UTC:20211123T130000
-UID:TBA
+UID:From-Playing-with-Constraints-to-Thinking-in-Terms-of-Limits-—-Towards-New-Research-Directions-in-CS
 LOCATION:La Rochette
-SEQUENCE:8
+SEQUENCE:2
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
-DESCRIPTION:TBA (TBA)
+SUMMARY:From Playing with Constraints to Thinking in Terms of Limits —
+  Towards New Research Directions in CS
+URL:http://synchron2021.inria.fr/abstracts.html#From-Playing-with-Constr
+ aints-to-Thinking-in-Terms-of-Limits-—-Towards-New-Research-Directions
+ -in-CS
+DESCRIPTION:Florence Maraninchi (VERIMAG)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T134500
 DTEND;TZID=UTC:20211123T143000
 DTSTAMP;TZID=UTC:20211123T134500
-UID:Towards-control-structures-in-Vélus
+UID:Reachability-analysis-in-the-Zélus-language
 LOCATION:La Rochette
-SEQUENCE:0
+SEQUENCE:2
 STATUS:CONFIRMED
-SUMMARY:Towards control structures in Vélus
-URL:http://synchron2021.inria.fr/abstracts.html#Towards-control-structur
- es-in-Vélus
-DESCRIPTION:Basile Pesin (Inria/ENS)
+SUMMARY:Reachability analysis in the Zélus language
+URL:http://synchron2021.inria.fr/abstracts.html#Reachability-analysis-in
+ -the-Zélus-language
+DESCRIPTION:François Bidet (LIX, CNRS, École polytechnique, Institut P
+ olytechnique de Paris)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -312,26 +314,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T150000
-DTEND;TZID=UTC:20211123T154500
+DTEND;TZID=UTC:20211123T152500
 DTSTAMP;TZID=UTC:20211123T150000
-UID:Reachability-analysis-in-the-Zélus-language
-LOCATION:La Rochette
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:Reachability analysis in the Zélus language
-URL:http://synchron2021.inria.fr/abstracts.html#Reachability-analysis-in
- -the-Zélus-language
-DESCRIPTION:François Bidet (LIX, CNRS, École polytechnique, Institut P
- olytechnique de Paris)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20211123T154500
-DTEND;TZID=UTC:20211123T161000
-DTSTAMP;TZID=UTC:20211123T154500
 UID:ProbZelus:-A-(hybrid)-probabilistic-synchronous-language
 LOCATION:La Rochette
-SEQUENCE:0
+SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:ProbZelus: A (hybrid) probabilistic synchronous language
 URL:http://synchron2021.inria.fr/abstracts.html#ProbZelus:-A-(hybrid)-pr
@@ -340,12 +327,26 @@ DESCRIPTION:Guillaume Baudart (Inria/ENS)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20211123T161000
-DTEND;TZID=UTC:20211123T170000
-DTSTAMP;TZID=UTC:20211123T161000
-UID:Synchron-Business-Meeting
+DTSTART;TZID=UTC:20211123T152500
+DTEND;TZID=UTC:20211123T162500
+DTSTAMP;TZID=UTC:20211123T152500
+UID:Simulating-functional-real-time-requirements-with-Stimulus
 LOCATION:La Rochette
 SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Simulating functional real-time requirements with Stimulus
+URL:http://synchron2021.inria.fr/abstracts.html#Simulating-functional-re
+ al-time-requirements-with-Stimulus
+DESCRIPTION:Bertrand Jeannet (Dassault Systèmes)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20211123T162500
+DTEND;TZID=UTC:20211123T171000
+DTSTAMP;TZID=UTC:20211123T162500
+UID:Synchron-Business-Meeting
+LOCATION:La Rochette
+SEQUENCE:1
 STATUS:CONFIRMED
 SUMMARY:Synchron Business Meeting
 URL:http://synchron2021.inria.fr/abstracts.html#Synchron-Business-Meetin
@@ -354,10 +355,10 @@ DESCRIPTION:Robert de Simone (Inria Sophia Antipolis - Méditerranée)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20211123T170000
+DTSTART;TZID=UTC:20211123T171000
 DTEND;TZID=UTC:20211123T180000
-DTSTAMP;TZID=UTC:20211123T170000
-UID:break-free time-2021-11-23-17-00
+DTSTAMP;TZID=UTC:20211123T171000
+UID:break-free time-2021-11-23-17-10
 LOCATION:La Rochette
 SEQUENCE:0
 STATUS:CONFIRMED
