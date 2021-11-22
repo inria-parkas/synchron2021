@@ -205,13 +205,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T084500
 DTEND;TZID=UTC:20211123T093000
 DTSTAMP;TZID=UTC:20211123T084500
-UID:TBA
+UID:Synchronous-semantics-of-multi-mode-multi-periodic-systems
 LOCATION:La Rochette
-SEQUENCE:9
+SEQUENCE:4
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
-DESCRIPTION:Baptiste Pauget (ANSYS/Inria/ENS)
+SUMMARY:Synchronous semantics of multi-mode multi-periodic systems
+URL:http://synchron2021.inria.fr/abstracts.html#Synchronous-semantics-of
+ -multi-mode-multi-periodic-systems
+DESCRIPTION:Frédéric Fort (Université de Lille)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -231,14 +232,15 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T100000
 DTEND;TZID=UTC:20211123T104500
 DTSTAMP;TZID=UTC:20211123T100000
-UID:Synchronous-semantics-of-multi-mode-multi-periodic-systems
+UID:Reachability-analysis-in-the-Zélus-language
 LOCATION:La Rochette
 SEQUENCE:3
 STATUS:CONFIRMED
-SUMMARY:Synchronous semantics of multi-mode multi-periodic systems
-URL:http://synchron2021.inria.fr/abstracts.html#Synchronous-semantics-of
- -multi-mode-multi-periodic-systems
-DESCRIPTION:Frédéric Fort (Université de Lille)
+SUMMARY:Reachability analysis in the Zélus language
+URL:http://synchron2021.inria.fr/abstracts.html#Reachability-analysis-in
+ -the-Zélus-language
+DESCRIPTION:François Bidet (LIX, CNRS, École polytechnique, Institut P
+ olytechnique de Paris)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -288,15 +290,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T134500
 DTEND;TZID=UTC:20211123T143000
 DTSTAMP;TZID=UTC:20211123T134500
-UID:Reachability-analysis-in-the-Zélus-language
+UID:TBA
 LOCATION:La Rochette
-SEQUENCE:2
+SEQUENCE:10
 STATUS:CONFIRMED
-SUMMARY:Reachability analysis in the Zélus language
-URL:http://synchron2021.inria.fr/abstracts.html#Reachability-analysis-in
- -the-Zélus-language
-DESCRIPTION:François Bidet (LIX, CNRS, École polytechnique, Institut P
- olytechnique de Paris)
+SUMMARY:TBA
+URL:http://synchron2021.inria.fr/abstracts.html#TBA
+DESCRIPTION:Baptiste Pauget (ANSYS/Inria/ENS)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
@@ -342,7 +342,7 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=UTC:20211123T162500
-DTEND;TZID=UTC:20211123T171000
+DTEND;TZID=UTC:20211123T170000
 DTSTAMP;TZID=UTC:20211123T162500
 UID:Synchron-Business-Meeting
 LOCATION:La Rochette
@@ -355,10 +355,10 @@ DESCRIPTION:Robert de Simone (Inria Sophia Antipolis - Méditerranée)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=UTC:20211123T171000
+DTSTART;TZID=UTC:20211123T170000
 DTEND;TZID=UTC:20211123T180000
-DTSTAMP;TZID=UTC:20211123T171000
-UID:break-free time-2021-11-23-17-10
+DTSTAMP;TZID=UTC:20211123T170000
+UID:break-free time-2021-11-23-17-00
 LOCATION:La Rochette
 SEQUENCE:0
 STATUS:CONFIRMED
