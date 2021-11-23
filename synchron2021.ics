@@ -412,12 +412,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211124T084500
 DTEND;TZID=UTC:20211124T093000
 DTSTAMP;TZID=UTC:20211124T084500
-UID:TBA
+UID:Discrete-Control-of-Response-for-Cybersecurity-in-Industrial-Control
 LOCATION:La Rochette
-SEQUENCE:3
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:Discrete Control of Response for Cybersecurity in Industrial Con
+ trol
+URL:http://synchron2021.inria.fr/abstracts.html#Discrete-Control-of-Resp
+ onse-for-Cybersecurity-in-Industrial-Control
 DESCRIPTION:Gwenaël Delaval (Université Grenoble Alpes)
 TRANSP:OPAQUE
 END:VEVENT
