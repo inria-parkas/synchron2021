@@ -452,12 +452,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211124T104500
 DTEND;TZID=UTC:20211124T113000
 DTSTAMP;TZID=UTC:20211124T104500
-UID:TBA
+UID:A-formal-microstep-Esterel-semantics
 LOCATION:La Rochette
-SEQUENCE:2
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:A formal microstep Esterel semantics
+URL:http://synchron2021.inria.fr/abstracts.html#A-formal-microstep-Ester
+ el-semantics
 DESCRIPTION:Lionel Rieg (VERIMAG)
 TRANSP:OPAQUE
 END:VEVENT
