@@ -533,9 +533,23 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211125T080000
 DTEND;TZID=UTC:20211125T084500
 DTSTAMP;TZID=UTC:20211125T080000
+UID:Efficient-C-Code-Generation-from-CCSL
+LOCATION:La Rochette
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Efficient C Code Generation from CCSL
+URL:http://synchron2021.inria.fr/abstracts.html#Efficient-C-Code-Generat
+ ion-from-CCSL
+DESCRIPTION:Baptiste Allorant (University of Kiel)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20211125T084500
+DTEND;TZID=UTC:20211125T093000
+DTSTAMP;TZID=UTC:20211125T084500
 UID:Enumeration-and-Deduction-Driven-Co-Synthesis-of-CCSL-Specifications-Using-Reinforcement-Learning
 LOCATION:La Rochette
-SEQUENCE:2
+SEQUENCE:3
 STATUS:CONFIRMED
 SUMMARY:Enumeration and Deduction Driven Co-Synthesis of CCSL Specificat
  ions Using Reinforcement Learning
@@ -543,20 +557,6 @@ URL:http://synchron2021.inria.fr/abstracts.html#Enumeration-and-Deductio
  n-Driven-Co-Synthesis-of-CCSL-Specifications-Using-Reinforcement-Learnin
  g
 DESCRIPTION:Frédéric Mallet (Inria Sophia Antipolis Méditerranée)
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=UTC:20211125T084500
-DTEND;TZID=UTC:20211125T093000
-DTSTAMP;TZID=UTC:20211125T084500
-UID:Efficient-C-Code-Generation-from-CCSL
-LOCATION:La Rochette
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Efficient C Code Generation from CCSL
-URL:http://synchron2021.inria.fr/abstracts.html#Efficient-C-Code-Generat
- ion-from-CCSL
-DESCRIPTION:Baptiste Allorant (University of Kiel)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
