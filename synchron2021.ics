@@ -630,12 +630,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211125T131500
 DTEND;TZID=UTC:20211125T140000
 DTSTAMP;TZID=UTC:20211125T131500
-UID:TBA
+UID:Weaving-synchronous-reactions-into-the-fabric-of-SSA-form-compilers
 LOCATION:La Rochette
-SEQUENCE:4
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:Weaving synchronous reactions into the fabric of SSA-form compil
+ ers
+URL:http://synchron2021.inria.fr/abstracts.html#Weaving-synchronous-reac
+ tions-into-the-fabric-of-SSA-form-compilers
 DESCRIPTION:Hugo Pompougnac (Inria)
 TRANSP:OPAQUE
 END:VEVENT
