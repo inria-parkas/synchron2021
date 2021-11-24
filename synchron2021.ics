@@ -549,12 +549,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211125T084500
 DTEND;TZID=UTC:20211125T093000
 DTSTAMP;TZID=UTC:20211125T084500
-UID:TBA
+UID:Efficient-C-Code-Generation-from-CCSL
 LOCATION:La Rochette
-SEQUENCE:5
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:Efficient C Code Generation from CCSL
+URL:http://synchron2021.inria.fr/abstracts.html#Efficient-C-Code-Generat
+ ion-from-CCSL
 DESCRIPTION:Baptiste Allorant (University of Kiel)
 TRANSP:OPAQUE
 END:VEVENT
