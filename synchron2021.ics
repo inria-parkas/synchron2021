@@ -770,13 +770,14 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211126T104500
 DTEND;TZID=UTC:20211126T113000
 DTSTAMP;TZID=UTC:20211126T104500
-UID:break-free time-2021-11-26-10-45
+UID:Using-Structured-Spreadsheets-to-Develop-Smart-Contracts
 LOCATION:La Rochette
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:free time
-URL:
-DESCRIPTION:
+SUMMARY:Using Structured Spreadsheets to Develop Smart Contracts
+URL:http://synchron2021.inria.fr/abstracts.html#Using-Structured-Spreads
+ heets-to-Develop-Smart-Contracts
+DESCRIPTION:Colin Gonzalez (IRIF and Nomadic Labs)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
