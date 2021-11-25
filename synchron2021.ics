@@ -620,7 +620,7 @@ DTEND;TZID=UTC:20211125T131500
 DTSTAMP;TZID=UTC:20211125T123000
 UID:TBA
 LOCATION:La Rochette
-SEQUENCE:7
+SEQUENCE:8
 STATUS:CONFIRMED
 SUMMARY:TBA
 URL:http://synchron2021.inria.fr/abstracts.html#TBA
@@ -728,12 +728,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211126T084500
 DTEND;TZID=UTC:20211126T093000
 DTSTAMP;TZID=UTC:20211126T084500
-UID:TBA
+UID:Interactive-verification-of-Lustre-programs-in-Vélus
 LOCATION:La Rochette
-SEQUENCE:7
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:Interactive verification of Lustre programs in Vélus
+URL:http://synchron2021.inria.fr/abstracts.html#Interactive-verification
+ -of-Lustre-programs-in-Vélus
 DESCRIPTION:Paul Jeanmaire (Inria/ENS)
 TRANSP:OPAQUE
 END:VEVENT
