@@ -618,12 +618,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211125T130000
 DTEND;TZID=UTC:20211125T134500
 DTSTAMP;TZID=UTC:20211125T130000
-UID:TBA
+UID:Formal-Verification-Impact-in-SW-Development-Cycles
 LOCATION:La Rochette
-SEQUENCE:9
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:Formal Verification Impact in SW Development Cycles
+URL:http://synchron2021.inria.fr/abstracts.html#Formal-Verification-Impa
+ ct-in-SW-Development-Cycles
 DESCRIPTION:Véronique Delebarre (SafeRiver)
 TRANSP:OPAQUE
 END:VEVENT
