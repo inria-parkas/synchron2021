@@ -754,12 +754,13 @@ BEGIN:VEVENT
 DTSTART;TZID=UTC:20211126T100000
 DTEND;TZID=UTC:20211126T104500
 DTSTAMP;TZID=UTC:20211126T100000
-UID:TBA
+UID:A-study-about-causality-analysis
 LOCATION:La Rochette
-SEQUENCE:6
+SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:TBA
-URL:http://synchron2021.inria.fr/abstracts.html#TBA
+SUMMARY:A study about causality analysis
+URL:http://synchron2021.inria.fr/abstracts.html#A-study-about-causality-
+ analysis
 DESCRIPTION:Astyax Nourel (IRIF)
 TRANSP:OPAQUE
 END:VEVENT
