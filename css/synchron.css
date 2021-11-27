@@ -11123,6 +11123,11 @@ h1 {
     display: none !important;
   }
 }
+@media screen {
+  #synchron-top-bar {
+    background-color: #4b8ba4;
+  }
+}
 @media screen and (max-width: 575.98px) {
   #synchron-top-bar {
     display: block;
